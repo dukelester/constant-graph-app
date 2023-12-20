@@ -2,8 +2,8 @@
 
 This project is a Node.js server built using the Nest.js framework. It represents a graph with nodes, where each node corresponds to a status represented by a number. Each edge in the graph is a set of rules that defines whether, on a transition, the system will move to the following state. The set of rules on each edge is defined as [Action, Rule, Type].
 
-### Action: SEND or RETURN
-### Rule: ADMIN, PARTNER, USER, or COURIER
+##### Action: SEND or RETURN
+##### Rule: ADMIN, PARTNER, USER, or COURIER
 ### Type: SINGLE or BULK
 ### For example, [S, A, SINGLE] means [SEND, ADMIN, SINGLE].
 
