@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone `https://github.com/yourusername/constant-graph-app.git`
+git clone `https://github.com/dukelester/constant-graph-app.git`
 Navigate to the project directory:
 
 bash
