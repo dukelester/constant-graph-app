@@ -4,8 +4,8 @@ This project is a Node.js server built using the Nest.js framework. It represent
 
 ##### Action: SEND or RETURN
 ##### Rule: ADMIN, PARTNER, USER, or COURIER
-### Type: SINGLE or BULK
-### For example, [S, A, SINGLE] means [SEND, ADMIN, SINGLE].
+##### Type: SINGLE or BULK
+##### For example, [S, A, SINGLE] means [SEND, ADMIN, SINGLE].
 
 ## Project Structure
 
